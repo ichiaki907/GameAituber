@@ -17,7 +17,7 @@ if not os.path.exists(save_folder):
 frame_index = 0
 
 # 最大の保存画像数
-max_frames = 60
+max_frames = 5
 
 # 最初のフレームのタイムスタンプを取得
 start_time = time.time()
